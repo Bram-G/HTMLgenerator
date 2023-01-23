@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#name{
+    text-align: center;
+}
+#box1{
+    width: auto;
+    border: 2px inset blue;
+    margin: 20px;
+    background-color: rgb(189, 186, 186);
+    display: flex;
+    justify-content: center;
+
+}
+#box2{
+    width: auto;
+    border: 2px inset blue;
+    margin: 20px;
+    background-color: rgb(189, 186, 186);
+    display: flex;
+    justify-content: center;
+}
+#box3{
+    border: 2px inset blue;
+    margin: 20px;
+    background-color: rgb(189, 186, 186);
+    display: flex;
+    justify-content: center;
+}
+#box4{
+    border: 2px inset blue;
+    margin: 20px;
+    background-color: rgb(189, 186, 186);
+    display: flex;
+    justify-content: center;
+}
